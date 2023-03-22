@@ -2,9 +2,9 @@
     <NuxtLayout>
         <section class="mx-auto space-y-8">
             <MiscLogoReveal />
-            <div class="flex flex-col items-center mx-auto mt-5">
+            <!--<div class="flex flex-col items-center mx-auto mt-5">
                 <MiscCountDown :time="1676053800000" />
-            </div>
+            </div>-->
             <div
                 class="max-w-7xl mx-auto mt-16 lg:mt-6 prose dark:prose-dark text-center p-2"
                 data-aos="fade-up"
@@ -215,7 +215,7 @@
 </template>
 <script setup lang="ts">
     useHead({
-        title: "Welcome | Tech Festival",
+        title: "Instrublitz | Symposium",
         meta: [
             {
                 name: "description",
