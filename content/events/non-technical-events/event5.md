@@ -1,10 +1,10 @@
 ---
-title: "Valorant"
+title: "Pictionary"
 description: "Juggling and dribbling that's how we roll in."
 date: "2022-02-11"
 ---
 
-# Valorant
+# Pictionary
 
 Juggling and dribbling that's how we roll in.
 
