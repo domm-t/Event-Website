@@ -1,22 +1,12 @@
 ---
-title: "Paper Presentation"
-description: "Present your ideas that can make the world better."
+title: "Circuitry"
+description: "Find the route for the connection"
 date: "2022-02-11"
 ---
 
-# Paper Presentation
+# Circuitry
 
-Domains :
-
--   Big Data
--   Artificial Intelligence 
--   Machine Learning
--   Cyber Security
--   Blockchain
--   Deep learning
--   IOT
-
-<a href="/downloads/paper_presentation_template" download="TEMPLATE.pptx">**--> Download Sample Presentation**</a>
+Find the route for the connection
 
 <img src="/posters/9.png" alt="Paper presentation" class="w-full lg:w-96 mx-auto object-cover" />
 
@@ -24,13 +14,13 @@ Domains :
 
 | Type    | Team Size | Fee (per team) |
 | ------- | --------- | -------------- |
-| Offline | 1 - 3     | 180            |
+| Offline |     2     | 120            |
 
 ## Rules & Guidelines
 
--   A team can consist of 2 to 4 members
--   The topic can be chosen from the provided domains
--   The registered students should mail their abstract one day before the event. Abstract of the paper should be in IEEE format
--   The presentation should not contain more than 15 slides.
--   Both concept and working models will be accepted
--   The content should not contain any plagiarism and the judge's decision will be final. 
+-   Team of 2 members.
+-   Total duration: 5 Mins per team.
+-   A circuit diagram will be given to one participant and that participant can observe the diagram for a few seconds and then he/she will be blindfolded.
+-   The other team member must draw the circuit by listening to the instructions given by the blindfolded person.
+-   Points are alloted based on precision and spontaneity.
+-   Team with leading points wins. 
