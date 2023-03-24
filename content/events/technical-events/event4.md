@@ -1,12 +1,12 @@
 ---
 title: "Project Expo"
-description: "A debate where 2 teams will compete and for every 3 mins their roles will swap (block and tackle)."
+description: "Discover the future at Expo!"
 date: "2022-02-11"
 ---
 
 # Project Expo
 
-A debate where 2 teams will compete and for every 3 mins their roles will swap (block and tackle).
+Discover the future at Expo!
 
 <img src="/posters/7.png" alt="That Escalated Quickly" class="w-full lg:w-96 mx-auto object-cover" />
 
@@ -14,14 +14,13 @@ A debate where 2 teams will compete and for every 3 mins their roles will swap (
 
 | Type    | Team Size | Fee (per team) |
 | ------- | --------- | -------------- |
-| Offline | 2 - 3     | 90             |
+| Offline | 2 - 3     | 150            |
 
 ## Rules & Guidelines
 
--   2 teams will compete against each other. Topic will be given on-spot.
--   One team will choose to block and the other to tackle.
--   When moderator says “switch”, the role of two teams will switch.
--   The team which makes the other team out of points wins.
--   Usage of electronic gadget like mobile phones, tabs, etc, is strictly prohibited during the event.
--   No personal attacks on the opponent.
--   Do not support the opponent / switch role unless the moderator asks to.
+-   Team of maximum 3 members.
+-   Connection will be provided.
+-   One page writeup has to be submitted after registeration.
+-   Participants has to explain the project for maximum 3minutes.
+-   Actual model is required for evaluation.
+-   Judges decision will be final.
