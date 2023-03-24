@@ -14,6 +14,7 @@
             >
                 A National Level technical symposium hosted by the department Electronics & Instrumentation of Easwari Engineering College.
             </div>
+
             <div
                 class="flex flex-col items-center lg:justify-center gap-8 lg:flex-row mx-auto lg:mt-6 p-4"
             >
@@ -62,9 +63,9 @@
                                 data-aos-duration="260"
                             >
                                 <div
-                                    class="uppercase text-base text-royal-yellow font-semibold text-center font-azonix"
+                                    class="uppercase text-base text- font-semibold text-center font-azonix"
                                 >
-                                    {{ event.title }}
+                                   {{ event.title }}
                                 </div>
                                 <div class="text-lg text-center">
                                     {{ event.description }}
@@ -95,8 +96,8 @@
                                 data-aos-delay="100"
                                 data-aos-duration="260"
                             >
-                                <div
-                                    class="uppercase text-base text-royal-yellow font-semibold text-center font-azonix"
+                                <div style="color:blue"
+                                    class="uppercase text-base font-semibold text-center font-azonix"
                                 >
                                     {{ event.title }}
                                 </div>
@@ -130,7 +131,7 @@
                                 data-aos-duration="260"
                             >
                                 <div
-                                    class="uppercase text-base text-royal-yellow font-semibold text-center font-azonix"
+                                    class="uppercase text-base font-semibold text-center font-azonix" id="paper"
                                 >
                                     {{ event.title }}
                                 </div>

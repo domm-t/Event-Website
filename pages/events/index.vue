@@ -11,7 +11,7 @@
                         <a v-for="event in technical" :key="event._id" :href="event._path"
                             class="flex flex-col gap-4 items-center w-full lg:max-w-xl p-8 border-2 border-zinc-700 dark:border-royal-yellow bg-black/60 transition duration-500 ease-in-out transform hover:-translate-y-1"
                             data-aos="fade-up" data-aos-easing="linear" data-aos-delay="100" data-aos-duration="260">
-                            <div class="uppercase text-base text-royal-yellow font-semibold text-center font-azonix">
+                            <div class="uppercase text-base text-royal-blue font-semibold text-center font-azonix">
                                 {{ event.title }}
                             </div>
                             <div class="text-lg text-center">
