@@ -1,12 +1,12 @@
 ---
 title: "Futsal"
-description: "‌Who did it? Sherlock Holmes? Anyone? Cold case, Crime scene."
+description: "where passion and teamwork meet."
 date: "2022-02-11"
 ---
 
 # Futsal
 
-‌Who did it? Sherlock Holmes? Anyone? Cold case, Crime scene.
+where passion and teamwork meet.
 
 <img src="/posters/15.png" alt="Murder Mystery" class="w-full lg:w-96 mx-auto object-cover" />
 
@@ -14,12 +14,15 @@ date: "2022-02-11"
 
 | Type    | Team Size | Fee (per team) |
 | ------- | --------- | -------------- |
-| Offline | 2 - 4     | 120            |
+| Offline | Team(4+2) | 200            |
 
 ## Rules & Guidelines
 
--  EACH TEAM CONSISTS OF 3 MEMBERS
--  EVERY TEAM WILL BE SOLVING THE GIVEN RIDDLE
--  EACH RIDDLE WILL LEAD YOU TO ONE STEP CLOSER TO THE MURDERER
--  THE TEAM HAS TO SOLVE THE RIDDLE TO FIND THE CLUE  
--  THE TEAM WHO FINDS THE MURDERER FIRST WILL BE AWARDED WITH EXCITING PRIZES
+-  Each team shall contain 4 Main + 2 Substitutes.
+-  Only college students are allowed.
+-  The game will be 10 mins (5mins a half).
+-  Referee's decision is final.
+-  A player participate only in a single team.
+-  Every round will be of Knockout basis.
+-  One step penalty if match tied.
+-  Further details will be intimated on day of event.
