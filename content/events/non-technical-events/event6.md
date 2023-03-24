@@ -1,12 +1,12 @@
 ---
 title: "Box Cricket"
-description: "Generally, the cover is way better than original. So sing it."
+description: "The Miniature Version Of Cricket."
 date: "2022-02-11"
 ---
 
 # Box Cricket
 
-Generally, the cover is way better than original. So sing it
+The Miniature Version Of Cricket.
 
 <img src="/posters/21.png" alt="Solo Singing" class="w-full lg:w-96 mx-auto object-cover" />
 
@@ -14,13 +14,17 @@ Generally, the cover is way better than original. So sing it
 
 | Type    | Team Size     | Fee (per head) |
 | ------- | ------------- | -------------- |
-| Offline | Individual(1) | 50             |
+| Offline | Team(5+2)     | 200            |
 
 ## Rules & Guidelines
 
--   Songs in English and Tamil are permitted.
--   Time limit - 2 minutes
--   1f the participant exceeds the time limit then points will be reduced accordingly.
--   Karaoke audio must be submitted before the start of the event if required.
--   Any form of vulgarity will lead to disqualification.
--   The decision of the judges will be final and will be up for no discussion.
+-   Underarm match.
+-   Knockout match will be played.
+-   4 overs per innings. 
+-   Each team shall contain 5 player + 2 substitutes.
+-   Each player must bowl exactly one over.
+-   One pitch one hand catch is considered as out.
+-   Only boundaries and No sixes.
+-   Wide and No ball contains one run.
+-   Umpire's decision is final.
+-   Further details will be intimated on day of event.
