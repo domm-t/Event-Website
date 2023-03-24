@@ -1,12 +1,12 @@
 ---
 title: "Paper presentation"
-description: "A coding competition that involves cracking a murder mystery which needs a brain with both coding and detective skills."
+description: "Engineering the future, one presentation at a time!"
 date: "2022-02-11"
 ---
 
 # Paper presentation
 
-A coding competition that involves cracking a murder mystery which needs a brain with both coding and detective skills.
+Engineering the future, one presentation at a time!
 
 <img src="/posters/1.png" alt="Sherlock code" class="w-full lg:w-96 mx-auto object-cover" />
 
@@ -14,11 +14,15 @@ A coding competition that involves cracking a murder mystery which needs a brain
 
 | Type    | Team Size | Fee (per team) |
 | ------- | --------- | -------------- |
-| Offline | 1 - 2     | 60             |
+| Offline | 1 - 3     | 150            |
 
 ## Rules & Guidelines
 
--   The entire event is designed in such a way to solve a murder mystery through debugging of code snippets.
--   The output of every code snippet has to be noted since they act as clues. Each clues will define the personality trait of the suspect.
--   Code snippets will be in Python and C.
--   Based on time attack. The team that connects the clues and identifies the suspect first wins.
+-   Team of 3 members.
+-   Each team has maximum of 15 minutes to present their ideas.
+-   Participants should mail their ppt before the day of the event.
+-   Topic should be based on the Engineering domains.
+-   Both concept and working models will be accepted.
+-   The content should not contain any plagiarism.
+-   Teams ppt should not exceed longer than 12 slides.
+-   Judges decision will be final.
