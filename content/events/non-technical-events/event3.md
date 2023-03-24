@@ -1,13 +1,12 @@
 ---
 title: "Solo Dance"
-description: "No time for cheap trick but play the game for Hat trick,‌ Teamwork is going to make your dream work."
+description: "Express your emotions & feelings without having to speak anything."
 date: "2022-02-11"
 ---
 
 # Solo Dance
 
-No time for cheap trick but play the game for Hat trick,
-‌Teamwork is going to make your dream work
+Express your emotions & feelings without having to speak anything.
 
 <img src="/posters/23.png" alt="Box Cricket" class="w-full lg:w-96 mx-auto object-cover" />
 
@@ -15,22 +14,15 @@ No time for cheap trick but play the game for Hat trick,
 
 | Type    | Team Size   | Fee (per team) |
 | ------- | ----------- | -------------- |
-| Offline | 5           | 200            |
+| Offline | 1           | 100            |
 
 ## Rules & Guidelines
 
--   It will be a knockout round.
--   Each team will bowl 4 overs and bat 4 overs.
--   Each player must bowl exactly one over.
--   The batting team can only change the players at the end of the 2nd over.
--   Two substitute is allowed per team. Substitutes can only play if a player is injured, and the umpire will make the decision.
--   A neutral umpire will be assigned for each game.
--   Umpire's decision will be final.
--   In case of a tie, each team will bowl and bat a super over for the knockout matches to decide a winner.
--   A box with a rectangle area behind the bowler along the boundary at the far end where 4 and 6 runs can be scored.
--   No fielder is allowed to stand in front of the box at the time of the delivery.
--   One player from the bowling team may keep the wicket.
--   If the team chooses not to keep the wicket,
-    a neutral wicketkeeper will collect the ball behind the wicket. The neutral wicketkeeper can neither assist a team to get a wicket nor restrict a run.
--   No underarm bowling or throws are allowed, a bowler will have to bowl the ball properly.
--   All the matches will be played on the same day.
+-   Participants should be a current colleges students.
+-   Time limit will be 2mins.
+-   If the participants exceeds the time limit, music will be stopped.
+-   The song should be submitted though a mail or whatsapp.
+-   Slots will be given accordingly.
+-   Usage of inflammable props is not allowed
+-   Any form of vulgarity in the songs, performance will be disqualified.
+-   Judges decision will be final.
