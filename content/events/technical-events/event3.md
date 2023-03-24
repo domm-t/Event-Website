@@ -1,12 +1,12 @@
 ---
 title: "Connextion"
-description: "A group presentation but you don't know what you will be presenting."
+description: "Make Every Connection Matter."
 date: "2022-02-11"
 ---
 
 # Connextion
 
-Nobody knows what awaits in those slides you gonna present.
+Make Every Connection Matter.
 
 <img src="/posters/5.png" alt="Blind presentation" class="w-full lg:w-96 mx-auto object-cover" />
 
@@ -14,12 +14,13 @@ Nobody knows what awaits in those slides you gonna present.
 
 | Type    | Team Size | Fee (per team) |
 | ------- | --------- | -------------- |
-| Offline | 2 - 3     | 90             |
+| Offline | 1 - 2     | 90             |
 
 ## Rules & Guidelines
 
--   The topic will be given on the first slide. The topic will not be shared before this moment. The presenter(s) need to ensure that the presentation stays relevant to the topic in one way or the other.
--   The presenter needs to spend at least 30 seconds on each slide.
--   There can be teams of two but you cannot switch in the middle of presenting a slide.
--   The presentation can be in Tamil or English. Words from other languages can be used wherever relevant.
--   Make sure to use appropriate language.
+-   A team can have maximum of 2 participants. 
+-   Time limit will be 60 secs per question.
+-   Set of pictures will be displayed.
+-   Participant must find the word by connecting their names.
+-   Three rounds will be conducted.
+-   The team with higher score will be selected to the last round.   
