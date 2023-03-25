@@ -1,6 +1,6 @@
 ---
 title: "Meme Contest"
-description: "‌Don't blink or you'll lose it."
+description: "‌MEME IT UP"
 date: "2022-02-11"
 ---
 
@@ -12,20 +12,15 @@ date: "2022-02-11"
 
 | Type   | Team Size          | Fee (per team) |
 | ------ | ------------------ | -------------- |
-| Online | 6 (5 main + 1 sub) | 200            |
+| Online |      1             |  30            |
 
 ## Rules & Guidelines
 
-- Each team’s roster will be allowed to have 5 main players and 1 substitute. Once the tournament starts, you cannot replace any player.
-- Player can be of any rank.
-- No coaches allowed.
-- Only registered accounts will be able to play (NO EXCUSES).
-- Use of hacks or abusing bugs/glitches Are punishable.
-- You are not allowed to share or use another person’s game account. Your account is for your use, and your use alone.
-- Afk's during matches are at your own cost.
-- Specious disconnect and reconnects are punishable and accountable.
-- A player is allowed to represent only one team.
-- Players should use the given Discord server for game comms. Party chats or team comms in game are not allowed.
-- All matches are knockout matches.
-- Changing of accounts during match will result in disqualification.
-
+-   Meme should not contain any vulgarity.
+-   Participants are allowed to submit only one photo.
+-   Both photo and video meme are accepted.
+-   Winners are chosen based on the jokes, creativity etc.
+-   Judges decision will be final.
+-   Photo should be mail with the Name, Instagram username, College name.
+-   Photo should be in JPEG format.
+-   Mail Id - instrublitz23@gmail.com
