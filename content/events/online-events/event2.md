@@ -17,13 +17,18 @@ date: "2022-05-28"
 ## Rules & Guidelines
 
 -   Themes :
-    * Dancing
+    * Stop Motion
     * Slow-Motion
-    * Movie Scene Recreation
+    * Nature
+    * Aesthetic
 
--   Individual or two persons can participate in the reel.
--   Winner is selected with performance and likes.
--   No person / animal should be harmed while making the reel.
--   Reel should be not longer than 1 minute.
--   Participants' names and the symposium name must be used as the water mark in the reel.
--   Video must be mailed to the official email ID of the symposium with "Reels" as its subject along with Instagram ID￲.
+
+-   Participants are allowed to submit only one video.
+-   Participants should follow the theme given.
+-   Videos can be taken in mobile and DSLR cameras.
+-   Offensive background music should be strictly avoided.
+-   The decision of the judge will be final and up for no discussion.
+-   Videos will be accepted only in Instagram reels format.
+-   The recommended aspect ratio for Reels is 9:16 and the recommended size is 1080 × 1920 pixels.
+-   Video should be sent to the mail with Name, Instagram ID , College name.
+-   Mail Id - instrublitz23@gmail.com
