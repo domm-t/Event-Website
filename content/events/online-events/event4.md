@@ -1,6 +1,6 @@
 ---
-title: "Video Editing"
-description: "If a picture is worth 1,000 words, imagine what a video is worth!"
+title: "Valorant"
+description: " A 5v5 multiplayer first-person shooter (FPS) where one team attacks and the other defends"
 date: "2022-05-28"
 ---
 
@@ -12,19 +12,17 @@ date: "2022-05-28"
 
 | Type   | Team Size  | Fee (per head) |
 | ------ | ---------- | -------------- |
-| Online | Individual | 30             |
+| Online |     5      | 200            |
 
 ## Rules & Guidelines
 
--   Stock Footage will be provided.
--   Theme should be strictly followed.
--   Each theme has 20 stock videos.
--   Out of the four themes, choose one and edit with the respective stock videos.
--   You can use any tool / application for editing.
--   All participants are requested to use only the stock footage provided.
--   Stock footage can be used in in any order and any number of times.
--   The submission must be a single video of about 20-30 seconds.
--   You can add any songs or effects as per your wish.
--   Inappropriate content (vulgar slang, profanity, etc.) leads to disqualification.
--   Your final clip should be of the format 1920 x 1080 - landscape.
--   The last date of submission will be **\_**
+-   Each team’s roster will be allowed to have 5 players. Once the tournament starts, you cannot replace any player.
+-   Player can be of any rank.
+-   Only registered accounts will be able to play .
+-   Use of hacks are directly disqualified.
+-   You are not allowed to share or use another person’s game account. 
+-   Afk's during matches are at your own cost.
+-   A player is allowed to represent only one team.
+-   Players should use the given Discord server for game comms. Party chats or team comms in game are not allowed.
+-   All matches are knockout matches.
+-   Changing of accounts during match will result in disqualification.
