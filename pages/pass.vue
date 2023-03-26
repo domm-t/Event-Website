@@ -1,4 +1,4 @@
-<template>
+<!--<template>
     <NuxtLayout>
         <section v-if="message" class="mx-auto space-y-8 mt-24">
             <h1 class="text-center text-lg max-w-6xl font-bold font-azonix mx-auto mt-8">
@@ -178,4 +178,16 @@ function copy(text: string) {
 }
 </script>
 
+-->
 
+<template>
+    Redirecting
+</template>
+<script setup lang="ts">
+onMounted(() => {
+    setTimeout(() => {
+        if (window) window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLScbGH_W-Rz22bUAQNMM8voBmcrND5xz6C-huVxbrxMnULTG1Q/viewform"
+        else useRouter().push("https://docs.google.com/forms/d/e/1FAIpQLScbGH_W-Rz22bUAQNMM8voBmcrND5xz6C-huVxbrxMnULTG1Q/viewform")
+    }, 2000)
+})
+</script>

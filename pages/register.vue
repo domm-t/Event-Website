@@ -286,8 +286,8 @@ function copy(text: string) {
 <script setup lang="ts">
 onMounted(() => {
     setTimeout(() => {
-        if (window) window.location.href = "https://forms.gle/oChUVeHxwBePZMWa6"
-        else useRouter().push("https://forms.gle/oChUVeHxwBePZMWa6")
+        if (window) window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLScbGH_W-Rz22bUAQNMM8voBmcrND5xz6C-huVxbrxMnULTG1Q/viewform"
+        else useRouter().push("https://docs.google.com/forms/d/e/1FAIpQLScbGH_W-Rz22bUAQNMM8voBmcrND5xz6C-huVxbrxMnULTG1Q/viewform")
     }, 2000)
 })
 </script>
