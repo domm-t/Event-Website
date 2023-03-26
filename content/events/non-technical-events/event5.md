@@ -6,8 +6,6 @@ date: "2022-02-11"
 
 # Pictionary
 
-
-
 <img src="/posters/17.png" alt="Futsal" class="w-full lg:w-96 mx-auto object-cover" />
 
 ## Details
