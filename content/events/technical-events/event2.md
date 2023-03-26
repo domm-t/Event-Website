@@ -19,15 +19,15 @@ Knowledge is Power
 ## Rules & Guidelines
 # **Round 1**
 -   Team of 3 members.
--   5 questions will be allotted for each team.
--   20 sec will be given for answering each questions.
+-   Set of general questions will be allotted for each team.
 -   Leading team will qualify for next round.
 # **Round 2**
--   Electrical components will be kept in a cup.
--   Participants must identify the components quickly.
--   For each wrong answer there will be a negative mark.
--   Leading team will qualify for next round.
+-    Set of images will be displayed.
+-    Participants must identify the shown images quickly.
+-    For each wrong answer there will be a negative mark
+-    Leading team will qualify for next round.
 # **Round 3**
 -   Surprise round.
 -   Team with high score wins.
 -   Judges decision will be final.
+-   Further details will be intimated on day of event.
