@@ -1,12 +1,12 @@
 ---
 title: "Pictionary"
-description: "Juggling and dribbling that's how we roll in."
+description: "Think Quickly"
 date: "2022-02-11"
 ---
 
 # Pictionary
 
-Juggling and dribbling that's how we roll in.
+
 
 <img src="/posters/17.png" alt="Futsal" class="w-full lg:w-96 mx-auto object-cover" />
 
@@ -14,21 +14,24 @@ Juggling and dribbling that's how we roll in.
 
 | Type    | Team Size   | Fee (per team) |
 | ------- | ----------- | -------------- |
-| Offline | 4 + 2 (sub) | 300            |
+| Offline |      4      | 100            |
 
 ## Rules & Guidelines
 
--   Only College Students are allowed.
--   League / knockout matches.- Team length: 6 (4 main + 2 subs)
--   Rolling substitution.
--   Half time length : 7 mins
--   The Referee's Decision Is Final.
--   A player can participate only in a single team.
--   One step penalties.
--   Cards will be given according to the foul.
--   Refund of registration fee will not be entertained.
--   The organizing committee has full authority to revise the rules of the game.
--   The organizing committee's decision will be final.
--   Teams Will Be Given A Maximum Time Limit Of 15 Minutes From Their Scheduled Time To Be Present For The Fixture.
+-  Team of 4 members
+* Round 1:  
+-   BRAINLINK:
+-   The first participant draws a drawing as per the word said by the  instructor and the next member writes a word corresponding to that drawing.
+-   Players take turns and one after the other and the last one deliver a word that word must match the first word.
+-   Within 5 mins teams with leading points are qualified to next round.
+* Round 2 :
+-   Mystery!!!
+-   Something interesting and engaging.
+* Round 3:
+-   SIXTHSENSE:
+-   A shot will be displayed from a song.
+-   The team needs to find out the name of the movie, song, singer and the director.
+-   Team with leading point wins.
+-   Further details will be intimated on day of event. 
 
-(Failure To Be Present at the given Timings Will Result In Disqualification)
+
