@@ -8,8 +8,8 @@
             } w-full py-4 relative transition-colors duration-500 ease-in-out`"
         >
             <div class="flex items-center justify-center relative z-20 gap-4">
-                <a href="https://www.instagram.com/datronix23._/" target="_blank">
-                    <span class="sr-only">Datronix Instagram</span>
+                <a href="https://www.instagram.com/instrublitz_23/" target="_blank">
+                    <span class="sr-only">Instrublitz Instagram</span>
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
                         width="24"
@@ -39,7 +39,7 @@
                     </svg>
                 </a>
                 <a
-                    href="https://srmeaswari.ac.in/artificial-intelligence-and-data-science/"
+                    href="https://srmeaswari.ac.in/electronics-and-instrumentation-engineering/"
                     target="_blank"
                 >
                     <span class="sr-only">SRM Easwari</span>
