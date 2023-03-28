@@ -33,11 +33,11 @@
                 </div>
             </div>
             <div class="flex items-center justify-center relative z-20">
-                © 2022 - {{ new Date().getFullYear() }} {{ Constants.SC }}
+                {{ Constants.NAME }}
             </div>
             <div class="flex items-center justify-center gap-2 relative z-20 text-xs mt-2">
-                <span>Made with</span>
-                <svg
+                <span>Made</span>
+                <!--<svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="8"
                     height="8"
@@ -52,10 +52,12 @@
                     <path
                         d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"
                     ></path>
-                </svg>
-                <a href="https://nett.moe">by Pranev</a>
+                </svg>-->
+                <a href="https://nett.moe">by Dominic & Raghul</a></div>
+            <div class="flex items-center justify-center gap-2 relative z-20 text-xs">
+            Special Thanks to Pranev & Yogesh</div>
             </div>
-        </div>
+        
     </footer>
 </template>
 <script setup lang="ts">
