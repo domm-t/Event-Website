@@ -19,7 +19,8 @@
                     }"
                 />
             </div>
-            <div class="midtext text-4xl md:text-6xl lg:text-8xl xl:text-9xl">
+            <div 
+            class="midtext text-4xl md:text-6xl lg:text-8xl xl:text-9xl">
                 <span>{{ Constants.NAME }}</span>
             </div>
         </div>
