@@ -62,7 +62,7 @@
                                 data-aos-delay="100"
                                 data-aos-duration="260"
                             >
-                                <div
+                                <div style="color:#18C0F1"
                                     class="uppercase text-base text- font-semibold text-center font-azonix"
                                 >
                                    {{ event.title }}
@@ -96,7 +96,7 @@
                                 data-aos-delay="100"
                                 data-aos-duration="260"
                             >
-                                <div style="color:blue"
+                                <div style="color:#18C0F1"
                                     class="uppercase text-base font-semibold text-center font-azonix"
                                 >
                                     {{ event.title }}
@@ -130,7 +130,7 @@
                                 data-aos-delay="100"
                                 data-aos-duration="260"
                             >
-                                <div
+                                <div style="color:#18C0F1"
                                     class="uppercase text-base font-semibold text-center font-azonix" id="paper"
                                 >
                                     {{ event.title }}
