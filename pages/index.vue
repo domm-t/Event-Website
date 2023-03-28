@@ -162,17 +162,17 @@
                 <div
                     class="grid grid-cols-1 lg:grid-cols-2 font-azonix text-xl mx-auto"
                 >
-                    <div class="p-2">Raghul</div>
+                    <div class="p-2">Vijay</div>
                     <a
                         class="p-2 block no-underline text-zinc-600 dark:text-royal-yellow"
                         href="tel:+919500163095"
-                        >+91 89038 82446</a
+                        >+91 73959 84868</a
                     >
-                    <div class="p-2">Yogesh</div>
+                    <div class="p-2">Tamil</div>
                     <a
                         class="p-2 block no-underline text-zinc-600 dark:text-royal-yellow"
                         href="tel:+917550155076"
-                        >+91 75501 55076</a
+                        >+91 93601 12612</a
                     >
                 </div>
             </div>
