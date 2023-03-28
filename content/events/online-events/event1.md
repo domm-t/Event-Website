@@ -6,7 +6,7 @@ date: "2022-02-11"
 
 # Meme Contest
 
-<img src="/posters/29.png" alt="Valorant" class="w-full lg:w-96 mx-auto object-cover" />
+<img src="/posters/29.jpg" alt="Valorant" class="w-full lg:w-96 mx-auto object-cover" />
 
 ## Details
 
